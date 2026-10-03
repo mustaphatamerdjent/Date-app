@@ -1,0 +1,6 @@
+{
+  "name": "It's a Date — Interactive Invitation",
+  "description": "A minimal, Apple-inspired interactive date invitation with custom SVG handwriting animation, playful micro-interactions, and a custom calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
